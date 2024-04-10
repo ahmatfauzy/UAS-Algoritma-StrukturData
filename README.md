@@ -1,1 +1,5 @@
-"# UAS1D-number2" 
+Nama : Ahmat Fauzi
+NIM : 23090109
+
+UAS - ALGORITMA & STRUKTUR DATA 
+SEMESTER 1
